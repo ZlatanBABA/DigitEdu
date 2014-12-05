@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  db: 'mongodb://admin:admin@dogen.mongohq.com:10096/app32189022',
+  db: 'mongodb://localhost/mean-dev',
 	debug: true,
 //  aggregate: 'whatever that is not false, because boolean false value turns aggregation off', //false
   aggregate: false,
